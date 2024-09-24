@@ -24,6 +24,6 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ScreenShots
-![HomePage](https://github.com/Sylvr3k/CarWashalishous/blob/master/home1.PNG?raw=true)
+![HomePage](https://github.com/Sylvr3k/CarWashalishous/blob/master/home2.PNG?raw=true)
 ![ServicePage](https://github.com/Sylvr3k/CarWashalishous/blob/master/service1.PNG?raw=true)
 ![ContactUsPage](https://github.com/Sylvr3k/CarWashalishous/blob/master/contact1.PNG?raw=true)
